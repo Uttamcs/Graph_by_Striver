@@ -1,4 +1,5 @@
-// Bipartite Graph
+// Bipartite Graph(DFS Approach)
+// Time Complexity: O(N+E)
 // Bipartite Graph is a graph whose vertices can be divided into two disjoint sets U and V such that every edge connects a vertex in U to one in V.
 #include <bits/stdc++.h>
 using namespace std;
